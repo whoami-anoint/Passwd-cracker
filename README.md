@@ -12,7 +12,8 @@ cd Passwd-cracker
 go run passwd-cracker.go 
 ```
 
-
+# Or 
+wget https://raw.githubusercontent.com/whoami-anoint/Passwd-cracker/main/passwd-cracker.go
 
 
 
