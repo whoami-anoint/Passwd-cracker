@@ -9,7 +9,6 @@ Installation:
 ```
 git clone https://github.com/whoami-anoint/Passwd-cracker
 cd Passwd-cracker
-chmod 777
 go run passwd-cracker.go 
 ```
 
