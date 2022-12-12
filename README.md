@@ -11,8 +11,7 @@ git clone https://github.com/whoami-anoint/Passwd-cracker
 cd Passwd-cracker
 go run passwd-cracker.go 
 ```
-
-# Or 
+<strong> Or </strong> <br>
 wget https://raw.githubusercontent.com/whoami-anoint/Passwd-cracker/main/passwd-cracker.go
 
 
