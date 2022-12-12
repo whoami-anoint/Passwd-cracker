@@ -12,8 +12,9 @@ cd Passwd-cracker
 go run passwd-cracker.go 
 ```
 <strong> Or </strong> <br>
+```
 wget https://raw.githubusercontent.com/whoami-anoint/Passwd-cracker/main/passwd-cracker.go
-
+```
 
 
 ```Note that this program is intended for educational purposes only, and should not be used to actually crack passwords without the owner's permission. Breaking into someone else's account without their permission is illegal and can result in severe penalties.```
